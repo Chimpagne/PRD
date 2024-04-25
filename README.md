@@ -14,16 +14,10 @@ It also contains a sample PRD under `samples/epfl-pocketcampus` for your referen
 python3 --version
 ```
 
-2. Fork this repo into your organization and clone it 
-```
-git clone git@github.com:<your-org-name>/mvp-prd.git
-cd mvp-prd
-```
-
-3. Create a Virtual Enviornment
+2. Create a Virtual Enviornment
 ```
 pip3 install virtualenv
-python3 -m virtualenv venv
+python3 -m virtualenv chimpagne_venv (is in gitignore)
 ```
 
 4. Activate the Virtual Environment
