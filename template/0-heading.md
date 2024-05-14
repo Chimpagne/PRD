@@ -1,4 +1,4 @@
-# MVP PRD: Project Name
+# MVP PRD: Chimpagne
 
-*[2024.04.20]*
+*[14.05.2024]*
 
