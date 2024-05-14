@@ -1,10 +1,15 @@
 # Analysis of the Situation
 
+## Competing Products
+
 *What are the competing products in the market today?*
-- Eventbrite/other Startups
-- Messenger Group Chats on Whatsapp/Discord
+- Eventbrite
+- Other startups
+- Messenger group chats on WhatsApp/Discord
+
+## Complementary Products
 
 *What are the complementary products in the market today?*
-- Messenger Group Chats on Whatsapp/Discord
+- Messenger group chats on WhatsApp/Discord
 - Spotify
 - TriCount

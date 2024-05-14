@@ -1,6 +1,14 @@
-# Appendix
+# Business Model
 
-*This section is optional.*
+## Expected Operating Costs
 
-*Can include mockups, sequence diagrams, etc.*
-- Put the filled out value proposition canva
+- Server hosting our app
+- Android app store fees
+- Team of PO/SM/Devs maintaining app
+
+## Revenue Streams
+
+- Through ads in the app
+- Through sponsors for events
+- Through partners (renting out beds/delivering food in supplies)
+- Through tickets being bought
