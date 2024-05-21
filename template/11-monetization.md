@@ -9,6 +9,6 @@
 ## Revenue Streams
 
 - **In-App Advertising**: Revenue generated from displaying ads within the app.
-- **Event Sponsorships**: Funds from sponsors who want to promote their events through our app.
+- **Event Sponsorships**: Funds from sponsors who want to promote their events through our app. This includes better positioning in the feed, e.g. showing as the first result in the feed
 - **Partnership Deals**: Income from partnerships with businesses renting out beds, delivering food, and providing other supplies.
 - **Ticket Sales**: Revenue from tickets sold for events organized through the app.
