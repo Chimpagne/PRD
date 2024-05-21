@@ -17,4 +17,10 @@ For party organizers seeking an efficient and all-inclusive event management sol
 
 ### 2. Defensible
 
+Sacha's opinion:
+The biggest hurdle is justifying the existence of a whole separate app, instead of "just a whatsapp group with a good description"
+2/5
+
 ### 3. Relevant
+
+People love to party,  and often have the same issues regarding logistics (people not finding where the event is, forgetting what they are supposed to bring to the event, etc...). This app, even in the POC stage, helps with a lot of those pain points. Thus, we find this app relevant for a large portion of students.
