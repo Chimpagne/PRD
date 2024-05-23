@@ -84,7 +84,7 @@ Working on it on ***LucidChart***
 ### New Features
 - **Check-in**: Quick access to events via QR code or invite link for seamless entry.
 - **Shared Budget & Purchases**: Simplifies the management of collective expenses for events.
-- **Party Rating & Review System**: Allows attendees to rate and review events, providing valuable feedback with a ⭐⭐⭐⭐ system.
+- **Party Rating & Review System**: Allows attendees to rate and review events, providing valuable feedback with a stars system.
 - **Improved Carpooling and Sleeping Options**: Enhanced features for organizing transportation and accommodations.
 - **Firebase Notifications**: Implementing Firebase for real-time notifications to keep users informed.
 - **Real-Time Location Tracking**: Enables attendees to easily locate each other during events.
