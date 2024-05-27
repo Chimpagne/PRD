@@ -73,18 +73,26 @@
    - **Investor Interest**: Measure the number and quality of interactions with potential investors, including meetings, pitch presentations, and follow-up interest.
    - **Customer Acquisition**: Monitor the number of event organizers, family members, and newcomers who adopt the app and provide testimonials or case studies.
 
-## Features Outside the Scope
+## Coming in Future
 
-### Future Features
+### New Features
+- **Check-in**: Quick access to events via QR code or invite link for seamless entry.
+- **Shared Budget & Purchases**: Simplifies the management of collective expenses for events.
+- **Party Rating & Review System**: Allows attendees to rate and review events, providing valuable feedback with a stars system.
+- **Improved Carpooling and Sleeping Options**: Enhanced features for organizing transportation and accommodations.
+- **Firebase Notifications**: Implementing Firebase for real-time notifications to keep users informed.
+- **Real-Time Location Tracking**: Enables attendees to easily locate each other during events.
+- **Event Geolocation**: Provides easy navigation to event locations through integrated mapping.
+- **Photo Sharing**: Allows post-event photo sharing directly from the app's camera.
 
-- **Advanced Analytics and Insights**: Provide detailed reports and analytics for event organizers.
-- **Integration with Other Platforms**: Integrate with social media, email, and other communication tools.
-- **Customizable Event Templates**: Offer pre-designed templates for different types of events.
-- **Premium Features**: Introduce a premium version with additional features and benefits.
+### Enhanced Authentication
+- **Phone Number and Email/Password Authentication**: Additional methods for user authentication, ensuring flexibility and security.
 
-### Integration Sequence
+### Offline Capabilities => Not sure which ones will be available for the MVP
+- **Event Location Storage**: Event locations are stored locally on the device.
+- **Local Map Download**: A 10 km² area around the event location is downloaded using OpenStreetMap, ensuring navigation even without internet access.
+- **Event Information Caching**: All event details are cached on the device for offline access.
+- **Offline Playlists**: Spotify link implementation allows offline access to event playlists.
+- **Offline Chat Messages**: Chat messages are available in offline mode, ensuring continuous communication.
+- **QR Code Authentication**: Authenticate attendees to an event using their QR codes, even without internet connectivity.
 
-1. **Basic Features**: Focus on core functionalities like event creation, task management, and guest authentication.
-2. **User Feedback**: Collect and analyze user feedback to identify the most requested features.
-3. **Advanced Features**: Gradually introduce advanced features based on user needs and market trends.
-4. **Premium Version**: Launch a premium version with exclusive features once the basic app is well-established.

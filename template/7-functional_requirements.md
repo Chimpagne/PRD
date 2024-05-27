@@ -78,26 +78,3 @@ Working on it on ***LucidChart***
 - **Social Media Links**: Enables opening of social media apps directly from the app for group chats and music sharing, providing a seamless user experience across platforms.
 
 ***Write paragraph how they're requirements for features have been handled***
-
-## Coming in Future
-
-### New Features
-- **Check-in**: Quick access to events via QR code or invite link for seamless entry.
-- **Shared Budget & Purchases**: Simplifies the management of collective expenses for events.
-- **Party Rating & Review System**: Allows attendees to rate and review events, providing valuable feedback with a stars system.
-- **Improved Carpooling and Sleeping Options**: Enhanced features for organizing transportation and accommodations.
-- **Firebase Notifications**: Implementing Firebase for real-time notifications to keep users informed.
-- **Real-Time Location Tracking**: Enables attendees to easily locate each other during events.
-- **Event Geolocation**: Provides easy navigation to event locations through integrated mapping.
-- **Photo Sharing**: Allows post-event photo sharing directly from the app's camera.
-
-### Enhanced Authentication
-- **Phone Number and Email/Password Authentication**: Additional methods for user authentication, ensuring flexibility and security.
-
-### Offline Capabilities => Not sure which ones will be available for the MVP
-- **Event Location Storage**: Event locations are stored locally on the device.
-- **Local Map Download**: A 10 km² area around the event location is downloaded using OpenStreetMap, ensuring navigation even without internet access.
-- **Event Information Caching**: All event details are cached on the device for offline access.
-- **Offline Playlists**: Spotify link implementation allows offline access to event playlists.
-- **Offline Chat Messages**: Chat messages are available in offline mode, ensuring continuous communication.
-- **QR Code Authentication**: Authenticate attendees to an event using their QR codes, even without internet connectivity.
