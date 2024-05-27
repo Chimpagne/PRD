@@ -44,8 +44,13 @@ Our app provides a rich set of features to cater to the needs of both guests and
 - **Role-Based Access**: Different roles (owner, staff, guests) with distinct capabilities and screens to manage events effectively.
 - **Weather Forecast**: For the dates of the event, a weather forecast is available and displayed on the EventScreen.
 
-*Include appropriate architectural diagrams.*
-What architecture diagrams do we want to include?
+### Architecture Diagrams
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="../Resources/Arch_Diag_POC.png" alt="Architecture Diagram POC" width="500" style="margin-right: 20px;" />
+    <img src="../Resources/Arch_Diag_MVP.png" alt="Architecture Diagram MVP" width="500" />
+</div>
+
 
 ## Key Internal Functionality
 
