@@ -87,6 +87,8 @@ class PRD:
         try:
             output_file_path = os.path.join(original_cwd, output_file)
             pypandoc.convert_text(all_content, 'pdf', format='md', outputfile=os.path.join(original_cwd, output_file))
+            pypandoc.convert_text(all_content, 'pdf', format='md', outputfile=os.path.join(original_cwd, output_file),
+                                  extra_args=['--resource-path=.:{}'.format('Resources')])
             print(f'Compiled PDF saved as {output_file_path}')
         finally:
             os.chdir(original_cwd)
