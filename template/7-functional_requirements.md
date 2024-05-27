@@ -1,7 +1,5 @@
 # Functional Requirements
 
-*Max 3 pages.*
-
 # Party Planning App - Key Features of the MVP
 
 ## Key Features for Users
@@ -18,7 +16,7 @@ Our app offers a variety of features designed to enhance the party planning expe
 - **Manage Participation**: Attendees can view and manage the events they have joined, with rights to interact based on their role.
 - **Event Discovery**: Events can be searched by tags, location radius, or a specific location.
 
-## Comprehensive Feature List => integrate weather
+## Comprehensive Feature List
 
 Our app provides a rich set of features to cater to the needs of both guests and registered users:
 
@@ -44,9 +42,10 @@ Our app provides a rich set of features to cater to the needs of both guests and
 - **Calendar Integration**: Add events directly to your calendar to avoid forgetting them.
 - **Polls and Voting**: Create polls for event attendees to vote on various aspects of the event.
 - **Role-Based Access**: Different roles (owner, staff, guests) with distinct capabilities and screens to manage events effectively.
+- **Weather Forecast**: For the dates of the event, a weather forecast is available and displayed on the EventScreen.
 
 *Include appropriate architectural diagrams.*
-Working on it on ***LucidChart***
+What architecture diagrams do we want to include?
 
 ## Key Internal Functionality
 
@@ -76,5 +75,3 @@ Working on it on ***LucidChart***
 
 ### Social Media and External App Integration
 - **Social Media Links**: Enables opening of social media apps directly from the app for group chats and music sharing, providing a seamless user experience across platforms.
-
-***Write paragraph how they're requirements for features have been handled***
