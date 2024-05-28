@@ -12,3 +12,7 @@
 - **Event Sponsorships**: Funds from sponsors who want to promote their events through our app. This includes better positioning in the feed, e.g. showing as the first result in the feed
 - **Partnership Deals**: Income from partnerships with businesses renting out beds, delivering food, and providing other supplies.
 - **Ticket Sales**: Revenue from tickets sold for events organized through the app.
+
+ ## Back of the envelope calculation
+
+ <TODO : JUAN>
