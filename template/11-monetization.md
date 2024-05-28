@@ -15,4 +15,4 @@
 
  ## Back of the envelope calculation
 
- <TODO : JUAN>
+ TODO : JUAN
