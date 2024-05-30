@@ -54,6 +54,8 @@
 
 ## Success Criteria
 
+A couple of real events are created per week on the app. If a small number of people actually use the app, we would be pretty pleased.
+
 ### Evaluation Metrics
 
 1. **User Penetration Metrics**

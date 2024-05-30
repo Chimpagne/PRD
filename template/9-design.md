@@ -60,3 +60,4 @@ The app is rigorously tested : code coverage is tested in the CI with sonar clou
 
 *Any special infrastructure requirements.*
 
+The architecture is quite standard and no special or deeply custom infrastructure is required for Chimpagne.

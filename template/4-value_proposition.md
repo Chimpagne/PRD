@@ -1,4 +1,6 @@
 # The Value Proposition
+ 
+Unparallled efficiency when organizing events. As the organizer, you can easily tell your guests everything they need to know about the event.
 
 ## Value Proposition and Rating
 

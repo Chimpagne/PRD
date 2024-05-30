@@ -18,7 +18,8 @@ The user location is heavily used throughout the app. This is an obviously impor
 
 *What kind of traffic patterns do you expect to see?*
 
-
+We expect people will join the app for a particular promotion (e.g. skip the line to buy Balelec tickets), and a good fraction will churn if they don't use it in the couple of weeks afterwards.
 
 *Are there known periods of bursty traffic that the MVP must be designed to support?*
 
+In the "promotion brings in a bunch of people" scenario, the bursty traffic is very much predictable. Thus, using the flexibility of modern cloud infrastructure, Chimpagne should be able to support the spike in traffic.
