@@ -47,8 +47,9 @@ Our app provides a rich set of features to cater to the needs of both guests and
 ### Architecture Diagrams
 
 <img src="../Resources/Arch_Diag_POC.png" alt="Architecture Diagram POC" width="500" />
-<br><br>
+![Architecture Diagram POC](/Resources/Arch_Diag_POC.png)
 <img src="../Resources/Arch_Diag_MVP.png" alt="Architecture Diagram MVP" width="500" />
+![Architecture Diagram MVP](/Resources//Resources/Arch_Diag_MVP.png.png)
 
 ## Key Internal Functionality
 
