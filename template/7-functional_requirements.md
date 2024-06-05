@@ -54,12 +54,11 @@ Our app provides a rich set of features to cater to the needs of both guests and
 - **Authentication**: The app provides authentication via the login screen, allowing users to access the app either as guests (unauthenticated) or through Google accounts using Firebase Authentication. Authenticated Google accounts are linked to unique ChampagneAccounts.
 - **ChampagneAccounts Privilege Levels**: ChampagneAccounts have three privilege levels within events:
   - **Owner (Creator)**: Full control over event management.
-  - **Staff**: Ability to edit event details.
+  - **Staff**: Ability to create polls, assign supplies.
   - **Guest**: View-only access to event information.
 
 ### Data Storage and Management
-- **Firebase Integration**: The app utilizes Firebase for both database and storage solutions:
-  - **Firebase Database**: Stores all data related to user accounts and events.
+  - **SQL Database**: Stores all data related to user accounts and events.
   - **Firebase Storage**: Manages and stores account and event images.
 
 ### External API Integration
