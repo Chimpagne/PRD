@@ -11,18 +11,26 @@ The primary purpose of Chimpagne is to eliminate the chaos and stress associated
 ## Key Features
 
 Chimpagne offers a wide array of features to ensure a seamless party planning experience:
-- **Check-in**: Ensures quick access to the event via QR code or invite link.
-- **Staff Management**: Effortlessly manage the staff for your event
-- **Polls & Voting**: Facilitate group decisions easily.
-- **Group and Private Chat Links**: Enable instant communication among guests.
-- **Event Sharing**: Share the party/event with other people who aren’t part of the organization.
-- **Public Event Discovery**: Research public parties that are close to your location.
-- **Party Tags**: Set up tags to describe the type of party.
-- **Weather Info**: Provide a bar indicating if and when it's going to rain, plus reminders.
-- **Permission Handling**: Assign roles with one admin (creates event), event staff (assigned by the creator of the event as staff for the event) and event goers (without access to the organization part).
-- **Accommodation Management**: Display how many beds and parking spots are available on site (if any)
 
-**TODO FIX THE ALIGNMENT ISSUE ON THE PDF, DOESN'T APPEAR ON THE MARKDOWN PREVIEW**
+- **Check-in**: Ensures quick access to the event via QR code or invite link.
+
+- **Staff Management**: Effortlessly manage the staff for your event
+
+- **Polls & Voting**: Facilitate group decisions easily.
+
+- **Group and Private Chat Links**: Enable instant communication among guests.
+
+- **Event Sharing**: Share the party/event with other people who aren’t part of the organization.
+
+- **Public Event Discovery**: Research public parties that are close to your location.
+
+- **Party Tags**: Set up tags to describe the type of party.
+
+- **Weather Info**: Provide a bar indicating if and when it's going to rain, plus reminders.
+
+- **Permission Handling**: Assign roles with one admin (creates event), event staff (assigned by the creator of the event as staff for the event) and event goers (without access to the organization part).
+
+- **Accommodation Management**: Display how many beds and parking spots are available on site (if any)
 
 ## Extensibility
 
