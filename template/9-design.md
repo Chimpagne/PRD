@@ -34,11 +34,11 @@ We have the following collections:
   
 Inside each collection, there are many documents (one for each account, one for each event)
 
-*Where is it stored?*
+## Current data storage paradigm
 
 The data is stored in firebase
 
-*How is it shared/copied/cached?*
+# Current cache configuration
 
 The data is cached client-side, so a basic offline experience is possible
 
@@ -46,18 +46,12 @@ The data is cached client-side, so a basic offline experience is possible
 
 ## Infrastructure and Deployment
 
-*How is the application developed, tested and deployed?*
-
 The app is developed without taking into consideration a "real" backend : there is no security consideration, the inputs are checked client-side, but this does not provide security.
 
-*Any special infrastructure requirements.*
 
 ## Test Plan
 
-*How is the application developed, tested and deployed?*
-
 The app is rigorously tested : code coverage is tested in the CI with sonar cloud, and the CI runs the tests at each commit.
 
-*Any special infrastructure requirements.*
 
 The architecture is quite standard and no special or deeply custom infrastructure is required for Chimpagne.
