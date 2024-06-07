@@ -22,6 +22,8 @@ Chimpagne offers a wide array of features to ensure a seamless party planning ex
 - **Permission Handling**: Assign roles with one admin (creates event), event staff (assigned by the creator of the event as staff for the event) and event goers (without access to the organization part).
 - **Accommodation Management**: Display how many beds and parking spots are available on site (if any)
 
+**TODO FIX THE ALIGNMENT ISSUE ON THE PDF, DOESN'T APPEAR ON THE MARKDOWN PREVIEW**
+
 ## Extensibility
 
 Chimpagne is designed to support an all-in-one model, allowing for the easy addition of new services over time. These services fall into two broad categories: 

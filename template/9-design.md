@@ -10,9 +10,9 @@ Jetpack compose was used as the declarative UI framework. Everything is written 
 
 The app is divided into
 
-- Event creation
-- Event discovery
-- Event details
+- Event creation: Register all of the information about the event.
+- Event discovery: Get recommended nearby events or search for events using filters.
+- Event details: Shows event's information and allows users to interact with the event.
 
 ## Backend
 
@@ -20,11 +20,15 @@ The app is divided into
 
 We use Firebase to store data
 
+**TODO DIDN'T WE SAY THE OPPOSITE FOR THE MVP ??**
+
 ## Data Model
 
 *What data are you collecting / managing?*
 
-We collect event informations. The event information 
+We collect event informations. The event information
+
+**TODO THIS NEEDS TO HAVE MORE DETAILS + ADD ACCOUNTS**
 
 *How is it organised?*
 
@@ -37,6 +41,8 @@ Inside each collection, there are many documents (one for each account, one for 
 ## Current data storage paradigm
 
 The data is stored in firebase
+
+**TODO TO BE UPDATED**
 
 # Current cache configuration
 

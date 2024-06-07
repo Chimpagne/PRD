@@ -24,15 +24,20 @@ Before doing the rewrite, it would need to re-evaluate the overall flow of the a
 Creating a successful "UI only" flutter app working on both android and ios. At this point, the backend will not have been fully connected.
 This allow us to develop and focus on the UI of the app without waiting for the backend to be complete, thus team members can work in parallel.
 
+**TODO ADD DETAILS FOR POSSIBLE TASKS JUST LIKE THE POCKETCAMPUS MVP**
+
 
 ## Third intermediate milestone
 
 The backend side with the server code and database are completed in the sense that they replicate all the functionnalities offered by firebase in the POC and have added all of the new functionalities for the MVP that are possible with the inclusion of a SQL database. As previously mentionned, this milestone can be reached before or after milestone #2.
 
+**TODO ADD DETAILS FOR POSSIBLE TASKS JUST LIKE THE POCKETCAMPUS MVP**
+
 ## Fourth intermediate milestone
 
 The backend and frontend should be fully connected. Intense user testing will be done to remove any pain points in the user flow.
 
+**TODO MORE DETAILS ARE NEEDED HERE**
 
 # Sprints
 
