@@ -33,5 +33,8 @@ The backend side with the server code and database are completed in the sense th
 
 The backend and frontend are fully connected, all the interactions available in the POC are replicated.
 
-*List identified sprints*
+
+# Sprints
+
+Each milestone is more or less a sprint on it's own. We assume these steps will be completed rather quickly, as the team already has a good understanding of the goal of the app and it's overall structure. Milestone 2 and 3 can be worked on simultenously by different member of the team. Two people could be dedicated to the backend side, with the rest of the team working on the UI.
 
