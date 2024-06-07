@@ -12,6 +12,14 @@ The main resource needed is developement time : we need to carefuly convert the 
 
 Regarding material resources, we need to setup testing for the IOS world : an apple computer and a real ios device are needed in addition to our existing hardware, to better test and understand the feeling of the app running on a real device.
 
+| Resource                    | Description                                                                                 | Estimated Cost   |
+|-----------------------------|---------------------------------------------------------------------------------------------|------------------|
+| Development Time            | Convert existing codebase to use Flutter, migrate from Firebase, set up hosted SQL database | 10 to 15 weeks   |
+| Apple Computer              | Required for testing in the iOS environment                                                 | $1,200 - $2,500  |
+| iOS Device                  | Needed for real-device testing                                                              | $400 - $1,200    |
+| Existing Hardware           | Additional hardware resources for testing and development                                   | Already owned    |
+
+
 *What are the intermediate milestones?*
 
 ## First intermeditate milestone
