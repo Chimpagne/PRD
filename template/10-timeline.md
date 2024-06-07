@@ -26,26 +26,49 @@ Regarding material resources, we need to setup testing for the IOS world : an ap
 
 Before doing the rewrite, it would need to re-evaluate the overall flow of the app. After doing some user testing, their feedback indicated that the party-goer side of the app needed significant improvements. This first intermediate milestone will focused on the new app flow mockup (in Figma), to better align our vision with what the testers have told us they expected from the app.
 
+Here are the key points for this milestone:
+
+- Complete, beautiful app mockup in Figma
+
+- Written feedback from testers
+
+- Clear and common vision for the app flow in written form
 
 ## Second intermediate milestone
 
 Creating a successful "UI only" flutter app working on both android and ios. At this point, the backend will not have been fully connected.
 This allow us to develop and focus on the UI of the app without waiting for the backend to be complete, thus team members can work in parallel.
 
-**TODO ADD DETAILS FOR POSSIBLE TASKS JUST LIKE THE POCKETCAMPUS MVP**
+At this point, we will fill the UI with mockup data, and we will be able to do a quick testing sessions with users, to get feedback early one.
 
+Key points for this milestone:
+
+- The app runs on android and ios
+- It is aesthetically pleasing, and conforms to the Figma app mockup
 
 ## Third intermediate milestone
 
 The backend side with the server code and database are completed in the sense that they replicate all the functionnalities offered by firebase in the POC and have added all of the new functionalities for the MVP that are possible with the inclusion of a SQL database. As previously mentionned, this milestone can be reached before or after milestone #2.
 
-**TODO ADD DETAILS FOR POSSIBLE TASKS JUST LIKE THE POCKETCAMPUS MVP**
+Key points for this milestone:
+
+- The backend runs in a server in our control
+- A language & framework has been choosen and is used for the backend
+- A SQL database has been properly set up
+- The user inputs are properly sanitized
+- Security measures are properly implemented
+
 
 ## Fourth intermediate milestone
 
 The backend and frontend should be fully connected. Intense user testing will be done to remove any pain points in the user flow.
 
-**TODO MORE DETAILS ARE NEEDED HERE**
+Key points for this milestone:
+
+- A lot of unit tests will be needed to test for the proper integration between the backend and the frontend.
+- The app works as expected without an internet connection
+- All the functionalities of the POC will be implemented
+
 
 # Sprints
 

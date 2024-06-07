@@ -14,14 +14,16 @@ For party organizers seeking an efficient and all-inclusive event management sol
 
 ## Rating
 
-### 1. Easy to Communicate
-Very easy to communicate: 5/5
-**TODO THIS NEEDS IMPROVEMENT**
+### 1. Ease of communication
+
+We find Chimpagne very straightforward to communicate : an app that helps organizing events. All the team members agreed that it is a 5/5.
+
 
 ### 2. Defensible
 
-The biggest hurdle is justifying the existence of a whole separate app, instead of "just a whatsapp group with a good description" 3/5.
-**TODO THIS NEEDS MORE OPINIONS**
+
+We think the biggest hurdle is justifying the existence of a whole separate app, instead of "just a whatsapp group with a good description".
+As such, it is a 3/5.
 
 ### 3. Relevant
 

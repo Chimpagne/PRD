@@ -18,17 +18,15 @@ The app is divided into
 
 *Decompose the MVP into functional blocks.*
 
-We use Firebase to store data
-
-**TODO DIDN'T WE SAY THE OPPOSITE FOR THE MVP ??**
+A standard sql database will be used to store data.
 
 ## Data Model
 
 *What data are you collecting / managing?*
 
-We collect event informations. The event information
-
-**TODO THIS NEEDS TO HAVE MORE DETAILS + ADD ACCOUNTS**
+We collect event informations. The event information contains the logistics, the event location, the event date, etc...
+The accounts informations are also stored in the database.
+Analytics such as app usage (how often people click on events, how much they use the feed, etc...) will also be stored in the database.
 
 *How is it organised?*
 
@@ -41,8 +39,6 @@ Inside each collection, there are many documents (one for each account, one for 
 ## Current data storage paradigm
 
 The data is stored in firebase
-
-**TODO TO BE UPDATED**
 
 # Current cache configuration
 
