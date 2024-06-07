@@ -1,6 +1,6 @@
 # The Value Proposition
  
-Unparallled efficiency when organizing events. As the organizer, you can easily tell your guests everything they need to know about the event.
+Unparallled efficiency when organizing events. As the organizer, you can easily tell your guests everything they need to know about the event. As a guest, you can easily get recommended events or find events that are to your liking.
 
 ## Value Proposition and Rating
 
@@ -19,9 +19,7 @@ For party organizers seeking an efficient and all-inclusive event management sol
 
 ### 2. Defensible
 
-Sacha's opinion:
-The biggest hurdle is justifying the existence of a whole separate app, instead of "just a whatsapp group with a good description"
-2/5
+The biggest hurdle is justifying the existence of a whole separate app, instead of "just a whatsapp group with a good description" 3/5.
 
 ### 3. Relevant
 
