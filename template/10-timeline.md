@@ -14,7 +14,7 @@ Regarding material resources, we need to setup testing for the IOS world : an ap
 
 | Resource                    | Description                                                                                 | Estimated Cost   |
 |-----------------------------|---------------------------------------------------------------------------------------------|------------------|
-| Development Time            | Convert existing codebase to use Flutter, migrate from Firebase, set up hosted SQL database | 10 to 15 weeks   |
+| Development Time            | Convert existing codebase to use Flutter, migrate from Firebase, set up hosted SQL database | 6 to 8 weeks     |
 | Apple Computer              | Required for testing in the iOS environment                                                 | $1,200 - $2,500  |
 | iOS Device                  | Needed for real-device testing                                                              | $400 - $1,200    |
 | Existing Hardware           | Additional hardware resources for testing and development                                   | Already owned    |
@@ -72,5 +72,5 @@ Key points for this milestone:
 
 # Sprints
 
-Each milestone is more or less a few sprints on it's own. We assume these steps will be completed rather quickly, as the team already has a good understanding of the goal of the app and it's overall structure. Milestone 2 and 3 can be worked on simultenously by different members of the team. Two people could be dedicated to the backend side, with the rest of the team working on the UI.
+Each milestone is more or less two sprints on it's own, by doing one week sprints. We assume these steps will be completed rather quickly, as the team already has a good understanding of the goal of the app and it's overall structure. Furthermore, LLMs in our experience can really help to build UI once a clean app mockup can be given as a prompt. Milestone 2 and 3 can be worked on simultenously by different members of the team. Two people could be dedicated to the backend side, with the rest of the team working on the UI.
 
