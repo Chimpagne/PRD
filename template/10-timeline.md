@@ -16,25 +16,25 @@ Regarding material resources, we need to setup testing for the IOS world : an ap
 
 ## First intermeditate milestone
 
-Before doing the rewrite, we think we need to re-evaluate the overall flow of the app. The user testing that was done indicates that the party-goer side of the app needs significant improvements. This first intermediate milestone will be a new flow mockup (in Figma), to better align with what the testers have told us they except from the app.
+Before doing the rewrite, it would need to re-evaluate the overall flow of the app. After doing some user testing, their feedback indicated that the party-goer side of the app needed significant improvements. This first intermediate milestone will focused on the new app flow mockup (in Figma), to better align our vision with what the testers have told us they expected from the app.
 
 
 ## Second intermediate milestone
 
-A successful "UI only" flutter app working on both android and ios. At this point, the backend has not been connected.
-This allow us to develop the UI of the app without waiting for the backend to be complete, thus the team members can work asynchronously.
+Creating a successful "UI only" flutter app working on both android and ios. At this point, the backend will not have been fully connected.
+This allow us to develop and focus on the UI of the app without waiting for the backend to be complete, thus team members can work in parallel.
 
 
 ## Third intermediate milestone
 
-The backend side with the server code and database are completed in the sense that they replicate all the functionnalities offered by firebase in the POC. As previously mentionned, this milestone can be reached before or after milestone #2.
+The backend side with the server code and database are completed in the sense that they replicate all the functionnalities offered by firebase in the POC and have added all of the new functionalities for the MVP that are possible with the inclusion of a SQL database. As previously mentionned, this milestone can be reached before or after milestone #2.
 
 ## Fourth intermediate milestone
 
-The backend and frontend are fully connected, all the interactions available in the POC are replicated.
+The backend and frontend should be fully connected. Intense user testing will be done to remove any pain points in the user flow.
 
 
 # Sprints
 
-Each milestone is more or less a sprint on it's own. We assume these steps will be completed rather quickly, as the team already has a good understanding of the goal of the app and it's overall structure. Milestone 2 and 3 can be worked on simultenously by different member of the team. Two people could be dedicated to the backend side, with the rest of the team working on the UI.
+Each milestone is more or less a few sprints on it's own. We assume these steps will be completed rather quickly, as the team already has a good understanding of the goal of the app and it's overall structure. Milestone 2 and 3 can be worked on simultenously by different members of the team. Two people could be dedicated to the backend side, with the rest of the team working on the UI.
 
