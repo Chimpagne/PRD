@@ -1,4 +1,5 @@
 # User Analytics and Acceptance
+
 Before the full rollout of the MVP, we must implement a comprehensive pipeline to collect and analyze user data. This will enable us to identify areas for improvement, fix bugs, and optimize the user experience. Tracking the following metrics and leveraging various analytical tools will be crucial in finding Product-Market Fit (PMF) and ensuring the app meets user needs effectively.
 
 *Goal: understand how users are using the app.*
